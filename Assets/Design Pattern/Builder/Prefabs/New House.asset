@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ffd3fc740f3c824090e13d729b92286, type: 3}
+  m_Name: New House
+  m_EditorClassIdentifier: 
+  house: {fileID: 6769460089087223362, guid: a65a62dd4df52864d9827eb133181b6f, type: 3}
+  garage: {fileID: 6836866343720979852, guid: 846cf2fedb6e6a44aae0939491cd7ef2, type: 3}
+  statues: {fileID: 1360383023799846915, guid: eff1f87c9cd92e34ba866f773b130d55, type: 3}
+  pool: {fileID: 506395691409108463, guid: de70eb3037653294098e96b9baf360f2, type: 3}
+  garden: {fileID: 3298389142178958522, guid: 9d939161bc1f67b499b1a3ad5efcebda, type: 3}
+  flatRoof: {fileID: 2942643355219952784, guid: 14e797c2760631443816c096b5dc9080, type: 3}
+  roundRoof: {fileID: 6300181723733613806, guid: b3f67347c8ada6f49b9a730719c35bef, type: 3}
+  pointyRoof: {fileID: 3853516346681469845, guid: d598f7b533eeb614e8e343f76dca4d01, type: 3}

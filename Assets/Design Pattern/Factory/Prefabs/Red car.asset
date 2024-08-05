@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 284e34694fddf9449b7329d833b13276, type: 3}
+  m_Name: Red car
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 9113191926699178704, guid: 1be6902a56e50b84888101dd43a88a67, type: 3}
+  speed: 3
+  color: {r: 0.8301887, g: 0.18326804, b: 0.18326804, a: 0}
+  timeToTurn: 0.3
